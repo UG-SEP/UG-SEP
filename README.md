@@ -7,3 +7,6 @@ I am Ujjwal.I am a beginner in programming.I have learned C,Data Structure,Html,
 ### My LinkedIn account:https://www.linkedin.com/feed/
 ### My Quora account:https://www.quora.com/profile/Ujjwal-Gupta-550
 Follow me on Github i am constantly publishing my project in it..
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=UG-SEP&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
