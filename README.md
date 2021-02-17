@@ -1,6 +1,6 @@
-<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
+<h1> <img alt="GIF" src="head.gif" width=300px height=200px align="right">
 
-<p align="center" >Hello, 👋 I'm Ujjwal Gupta <img src="Gifs/Developer.gif" width=70px></h1>
+<p align="center" >Hello, 👋 I'm Ujjwal Gupta <img src="giphy.gif" width=70px></h1>
 
 <h3 align="center"><i>A Passionate Programmer from India</i></h3></br></br>
 
