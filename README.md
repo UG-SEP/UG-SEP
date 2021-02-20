@@ -23,7 +23,8 @@
 ### 💘 Language preferred:- 
 # [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/UG-SEP/github-readme-stats)
 </br>
- 
+
+### 💘 My Streak:-
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=tokyonight)](https://github.com/UG-SEP/github-readme-streak-stats)
 
 </br>
