@@ -29,7 +29,8 @@
 
 </br>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=UG-SEP&theme=gruvbox)](https://github.com/UG-SEP/github-profile-trophy)
+### 💘 Achievement:-
+[![trophy](https://github-profile-trophy.vercel.app/?username=UG-SEP&theme=gruvbox)](https://github.com/UG-SEP/github-profile-trophy)
 </br>
 
 ### 💘 Github Activity Graph:-
