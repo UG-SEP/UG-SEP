@@ -15,24 +15,20 @@
 - ⚡ ***Fun fact: Like to watch Bandbudh aur Budbak.*** 😂</br></br>
 - ***<details> <summary> 📫  How to reach me :***</summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a></details>
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
-<h2> <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
-
+ 
 # [![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=algolia)](https://github.com/UG-SEP/github-readme-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
-# [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/UG-SEP/github-readme-stats)
+ # [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/UG-SEP/github-readme-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
-# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=tokyonight)](https://github.com/UG-SEP/github-readme-streak-stats)
+ # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=tokyonight)](https://github.com/UG-SEP/github-readme-streak-stats)
 
 </br>
 
-## <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/heart.png?raw=true" width=30px /> Github Trophies:-
-[![trophy](https://github-profile-trophy.vercel.app/?username=UG-SEP&theme=gruvbox)](https://github.com/UG-SEP/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=UG-SEP&theme=gruvbox)](https://github.com/UG-SEP/github-profile-trophy)
 
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
