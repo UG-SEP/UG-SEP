@@ -29,7 +29,10 @@
 </br>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=UG-SEP&theme=gruvbox)](https://github.com/UG-SEP/github-profile-trophy)
+</br>
 
+### 💘 Github Activity Graph:-
+[![Samarpan Dasgupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=redical)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
 
