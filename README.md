@@ -16,6 +16,7 @@
 - ***<details> <summary> 📫  How to reach me :***</summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a></details>
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
  
+### 💘 Github Stats:- 
 # [![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=algolia)](https://github.com/UG-SEP/github-readme-stats)
 
 </br>
