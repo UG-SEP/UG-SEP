@@ -36,7 +36,7 @@
 ### 💘 Github Activity Graph:-
 [![Ujjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=UG-SEP&theme=redical)](https://github.com/UG-SEP/github-readme-activity-graph)
 
-<h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
+<h2><i> <p align="center"> Show ❤️ by Starring Some of My Repos</i></h2>
 
 ```C
 if(thought):
