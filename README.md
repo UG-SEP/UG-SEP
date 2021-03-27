@@ -9,23 +9,22 @@
 [![Connect on Youtube](https://img.shields.io/badge/--Youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UChdmj1kcZiXXsmEKz7dVnWQ) 
 <br></br>
 - 🔭 ***I'm in the Class 9th.***</br></br>
-- 🌱 ***I’m Currently Understanding C Language more deeply.***</br></br>
-- 🎯 ***I’m focusing on Competitive Programming.***</br></br>
+- 🌱 ***I’m Currently Learning C++.***</br></br>
+- 🎯 ***I’m focusing on Competitive Programming & OpenSource.***</br></br>
 - 🥅 ***2021 Goals: Contribute more to Open Source projects and explore myself.***</br></br>
 - ⚡ ***Fun fact: Like to watch Bandbudh aur Budbak.*** 😂</br></br>
 - ***<details> <summary> 📫  How to reach me :***</summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a></details>
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
  
 ### 💘 Github Stats:- 
-# [![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=algolia)](https://github.com/UG-SEP/github-readme-stats)
+# [![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=chartreuse-dark)](https://github.com/UG-SEP/github-readme-stats)
 </br>
 
 ### 💘 Language preferred:- 
-# [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/UG-SEP/github-readme-stats)
-</br>
+# [![Language Preffered](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=chartreuse-dark)](https://github.com/UG-SEP/github-readme-stats)
 
 ### 💘 My Streak:-
-# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=tokyonight)](https://github.com/UG-SEP/github-readme-streak-stats)
+# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=onedark)](https://github.com/UG-SEP/github-readme-streak-stats)
 
 </br>
 
@@ -34,7 +33,7 @@
 </br>
 
 ### 💘 Github Activity Graph:-
-[![Ujjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=UG-SEP&theme=redical)](https://github.com/UG-SEP/github-readme-activity-graph)
+[![Ujjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=UG-SEP&theme=react-dark)](https://github.com/UG-SEP/github-readme-activity-graph)
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of My Repos</i></h2>
 
