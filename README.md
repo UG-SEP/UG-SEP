@@ -17,32 +17,32 @@
 - 🌱 ***I’m Currently Learning C++.***</br></br>
 - 🎯 ***I’m focusing on Competitive Programming & OpenSource.***</br></br>
 - 🥅 ***2021 Goals: Contribute more to Open Source projects and explore myself.***</br></br>
-- ⚡ ***Fun fact: Like to watch Bandbudh aur Budbak.*** 😂</br></br>
+- ⚡ ***Fun fact: I am funny.*** 😂</br></br>
 - ***<details> <summary> 📫  How to reach me :***</summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a></details>
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
  
-### 💘 Github Stats:- 
+### 💘 Github Stats:
 # [![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=chartreuse-dark)](https://github.com/UG-SEP)
 </br>
 
-### 💘 Language preferred:- 
+### 💘 Language preferred:
 # [![Language Preffered](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=chartreuse-dark)](https://github.com/UG-SEP)
 
-### 💘 My Streak:-
+### 💘 My Streak:
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=onedark)](https://github.com/UG-SEP)
 
 </br>
 
-### 💘 Achievement:-
+### 💘 Achievement:
 [![trophy](https://github-profile-trophy.vercel.app/?username=UG-SEP&theme=gruvbox)](https://github.com/UG-SEP)
 </br>
 
-### 💘 Github Activity Graph:-
+### 💘 Github Activity Graph:
 [![Ujjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=UG-SEP&theme=react-dark)](https://github.com/UG-SEP)
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of My Repos</i></h2>
 
-```C
+```javascript
 if(thought):
     printf("Think like a thinker and work like a worker")
 ```
