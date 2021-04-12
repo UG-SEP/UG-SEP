@@ -13,7 +13,7 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/)
 [![Connect on Youtube](https://img.shields.io/badge/--Youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UChdmj1kcZiXXsmEKz7dVnWQ) 
 <br></br>
-- 🔭 ***I'm in the Class 9th.***</br></br>
+- 🔭 ***I'm in the Class 10th.***</br></br>
 - 🌱 ***I’m Currently Learning C++.***</br></br>
 - 🎯 ***I’m focusing on Competitive Programming & OpenSource.***</br></br>
 - 🥅 ***2021 Goals: Contribute more to Open Source projects and explore myself.***</br></br>
