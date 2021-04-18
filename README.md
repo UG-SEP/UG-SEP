@@ -44,7 +44,7 @@
 
 ```javascript
 if(thought):
-    printf("Think like a thinker and work like a worker")
+    printf("Think like a thinker and work like a worker");
 ```
 </br>
 
