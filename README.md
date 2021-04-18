@@ -47,12 +47,6 @@ if(thought):
     printf("Think like a thinker and work like a worker")
 ```
 </br>
-<h2> 🤝 Connect with me:-</h2>
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr |LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-</br>
 
 <h2> ⚒️ Tools and Programming Languages:- </h2>
 <p align="left">
@@ -63,9 +57,4 @@ if(thought):
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/html_logo.png?raw=true" width=50px>
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/css_logo.png?raw=true" width=50px>
 </p>
-<br/>
-
-[youtube]: https://www.youtube.com/channel/UChdmj1kcZiXXsmEKz7dVnWQ
-
-[linkedin]: https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/
-
+<br>
