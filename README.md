@@ -49,7 +49,7 @@ if(thought):
 ```
 </br>
 
-<h2> ⚒️ Tools and Programming Languages:- </h2>
+<h2> ⚒️ Tools and Programming Languages: </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/SamarpanCoder2002/SamarpanCoder2002/d06e07df7d8fd91e5b3cc00a5ef7aefaea28a4f3/Images_For_README/c_laang.svg" width=50px>
 <img src="https://github.com/SamarpanCoder2002/SamarpanCoder2002/blob/main/Images_For_README/c++_lang.png?raw=true" width=60px>
