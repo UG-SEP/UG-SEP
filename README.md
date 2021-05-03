@@ -22,8 +22,8 @@
 # [![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=chartreuse-dark)](https://github.com/UG-SEP)
 </br>
 
-### 💘 Language Prefferred:
-# [![Language Preffered](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=chartreuse-dark)](https://github.com/UG-SEP)
+### 💘 Language Preferred:
+# [![Language Prefered](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=chartreuse-dark)](https://github.com/UG-SEP)
 
 ### 💘 My Streak:
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=onedark)](https://github.com/UG-SEP)
