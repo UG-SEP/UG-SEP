@@ -22,7 +22,7 @@
 # [![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=chartreuse-dark)](https://github.com/UG-SEP)
 </br>
 
-### 💘 Language Preferred:
+### 💘 Language Prefferred:
 # [![Language Preffered](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=chartreuse-dark)](https://github.com/UG-SEP)
 
 ### 💘 My Streak:
