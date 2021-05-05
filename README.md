@@ -44,4 +44,3 @@
 if(thought):
     printf("Think like a thinker and work like a worker");
 ```
-<h2> ⚒️ Tools and Programming Languages: </h2>
