@@ -20,20 +20,12 @@
  
 ### 💘 Github Stats:
 # [![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=chartreuse-dark)](https://github.com/UG-SEP)
-</br>
-
 ### 💘 Language Preferred:
 # [![Language Preferred](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=chartreuse-dark)](https://github.com/UG-SEP)
-
 ### 💘 My Streak:
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=onedark)](https://github.com/UG-SEP)
-
-</br>
-
 ### 💘 Achievement:
 [![trophy](https://github-profile-trophy.vercel.app/?username=UG-SEP&theme=gruvbox)](https://github.com/UG-SEP)
-</br>
-
 ### 💘 Github Activity Graph:
 [![Ujjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=UG-SEP&theme=react-dark)](https://github.com/UG-SEP)
 
@@ -44,7 +36,6 @@ if(thought):
     printf("Think like a thinker and work like a worker");
 ```
 </br>
-
 <h2> ⚒️ Tools and Programming Languages: </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/SamarpanCoder2002/SamarpanCoder2002/d06e07df7d8fd91e5b3cc00a5ef7aefaea28a4f3/Images_For_README/c_laang.svg" width=50px>
