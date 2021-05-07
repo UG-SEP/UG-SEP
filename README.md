@@ -1,7 +1,7 @@
 <h1> <img alt="GIF" src="head.gif" width=300px height=200px align="right">
 
 <p align="center" >Hello, 👋 I'm Ujjwal Gupta</p>
-<h3 align="center"><i>A Passionate Programmer from India</i></h3></h1></br></br>
+<h3 align="center"><i>A Passionate Programmer from India</i></h3></h1>
 <p><strong>I am 15 years old programmer,desktop application developer from India currently learning qt library to explore my skills. I love programmer because it let me to do what ever I want.
 <h2>My Top projects</h2></strong></p><hr>
 <ul><li><h3><a href="https://github.com/UG-SEP/Paint-with-UG-The-SEP" alt="project" title="It is a paint application created in c language using graphics.h header file ">Paint With UG</a></h3></li>
@@ -60,4 +60,5 @@
 if(thought):
     printf("Think like a thinker and work like a worker");
 ```
+<img src="https://github.com/UG-SEP/UG-SEP/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
 <h2><i> <p align="center"> Show ❤️ by Starring Some of My Repos</i></h2>
