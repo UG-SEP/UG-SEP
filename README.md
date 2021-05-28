@@ -60,7 +60,7 @@
 
 ```javascript
 if(thought):
-    printf("Think like a thinker and work like a worker");
+    printf("Art is not what you see, It's what you feel");
 ```
 <p align="center">
 <img src="https://github.com/UG-SEP/UG-SEP/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
