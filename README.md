@@ -23,11 +23,17 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
 ![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)
 ![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/01970187404484722557)
 <details><summary><strong>My Profile statistics 📈📊📉</strong></summary>
  <table>
  <tr>
