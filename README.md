@@ -11,7 +11,7 @@
 <hr>
 
 - 🔭 I'm in the Class 10th.
-- 🌱 I’m Currently Learning QT,Working on a Awesome project.
+- 🌱 I’m Currently Learning C#,Working on a Awesome project.
 - 🎯 I’m focusing on Competitive Programming & OpenSource.
 - 🥅 2021 Goals: Contribute more to Open Source projects and explore myself.
 - ⚡ Fun fact: I am funny. 😂
