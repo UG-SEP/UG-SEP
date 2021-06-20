@@ -19,7 +19,7 @@
 - ***<details> <summary>*** 🤝  How to connect with me:></summary><a href="https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/"> <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="25px"/> </a>
 &nbsp; <a href="https://www.facebook.com/profile.php?id=100052029756223"> <img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" width="25px"/> </a> &nbsp; <a href="https://twitter.com/UjjwalG76283416"><img src="https://gist.githubusercontent.com/mbostock/3094619/raw/78116ff0306b3b5c3f40e6cdd5f6f8f648ecffd1/thumbnail.png" width="30px" height="25px" /></a></details>
 
-<h2> Languages and Tools 🛠:</h2>
+<h2> Languages and Tools 🛠:></h2>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
 ![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
