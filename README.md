@@ -4,7 +4,9 @@
 <h3 align="center"><i>A Passionate Programmer from India</i></h3></h1>
 <p><strong>I am 15 years old programmer,desktop application developer from India currently learning qt library to explore my skills. I love programmer because it let me to do what ever I want.
 <h2>My Top projects</h2></strong></p><hr>
-<ul><li><h3><a href="https://github.com/UG-SEP/Paint-with-UG-The-SEP" alt="project" title="It is a paint application created in c language using graphics.h header file ">Paint With UG</a></h3></li>
+<ul>
+<li><h3><a href="https://github.com/UG-SEP/HMT" alt="project" title="HMT is a multi text-editor which provides you to intract with HTML, CSS, Markdown with one click preview.">HMT</a></h3></li>
+<li><h3><a href="https://github.com/UG-SEP/Paint-with-UG-The-SEP" alt="project" title="It is a paint application created in c language using graphics.h header file ">Paint With UG</a></h3></li>
 <li><h3><a href="https://github.com/UG-SEP/UG-Typing-Expert" alt="project" title="Typing Expert is a game in which you can test your typing speed, enjoy typing games and see your position on leaderboard">UG Typing Expert</a></h3></li>
 <li><h3><a href="https://github.com/UG-SEP/Tic-Tac-Toe-AI-Intergrated" alt="project" title="It is a popular game in this you can play with computer and there is unique concept click on the link and go to the video from readme.md and enjoy it">Tic Tac Toe AI Integrated</a></h3></li>
 </ul>
