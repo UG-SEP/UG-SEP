@@ -77,3 +77,6 @@ if(thought):
 <img src="https://github.com/UG-SEP/UG-SEP/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
 <h2 align="center"><i> Show ❤️ by Starring Some of My Repos</i></h2>
 </p>
+<h2>Latest Blogs</h2>
+<h3><a href="https://dev.to/ug/most-useful-sequences-in-python-for-beginners-3ac3">Most Useful Sequences in Python for Beginners👨‍💻</a></h3>
+<h3><a href="https://dev.to/ug/5-project-to-master-in-python-for-beginners-4blm">5 Projects to Master in Python for Beginners👨‍💻</a></h3>
