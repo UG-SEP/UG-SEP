@@ -13,7 +13,7 @@
 <hr>
 
 - 🔭 I'm in the Class 10th.
-- 🌱 I’m Currently working on a project `Tenthies`
+- 🌱 I’m Currently working on a project `10thies`
 - 🎯 I’m focusing on Competitive Programming & OpenSource.
 - 🥅 2021 Goals: Contribute more to Open Source projects and explore myself.
 - ⚡ Fun fact: I am funny. 😂
