@@ -1,6 +1,6 @@
 <h1> <img alt="GIF" src="head.gif" width=300px height=200px align="right">
 
-<p align="center" >Hello, 👋 I'm Ujjwal Gupta</p>
+<p align="center" >Hello, 👋 I'm Ujjawal Gupta</p>
 <h3 align="center"><i>A Passionate Programmer from India</i></h3></h1>
 <p><strong>I am 16 years old programmer,android and backend developer from India. I love programming because it let me to do whatever I want.
 <h3> Check out my website <a href="http://10thies.live">10thies</a><br>
