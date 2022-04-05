@@ -16,7 +16,7 @@
 - 🔭 I'm in the Class 10th.
 - 🌱 I’m Currently working as a Freelancer
 - 🎯 I’m focusing on Competitive Programming & OpenSource.
-- 🥅 2021 Goals: Contribute more to Open Source projects and explore myself.
+- 🥅 2022 Goals: Contribute more to Open Source projects and explore myself.
 - ⚡ Fun fact: I am funny. 😂
 - 📫 How to reach me:></summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 - ***<details> <summary>*** 🤝  How to connect with me:></summary><a href="https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/"> <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="25px"/> </a>
