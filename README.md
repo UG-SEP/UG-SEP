@@ -1,8 +1,8 @@
-<h1> <img alt="GIF" src="head.gif" width=300px height=200px align="right">
+<h1> <img alt="GIF" src="giphy.gif" width=300px height=200px align="right">
 
 <p align="center" >Hello, 👋 I'm Ujjawal Gupta</p>
 <h3 align="center"><i>17 year old professional Django developer</i></h3></h1>
-<p><strong> Django backend developer with over 2 years of hands-on experience in programming and backend development. My journey in the tech world started with a curiosity for machine learning, and I've been on an exciting learning path ever since. I believe in the power of technology to shape the future, and I'm dedicated to honing my skills to contribute meaningfully. </h2></strong></p><hr>
+<p><strong> Django backend developer with over 2 years of hands-on experience in programming and backend development. I believe in the power of technology to shape the future, and I'm dedicated to honing my skills to contribute meaningfully. </h2></strong></p><hr>
 <ul>
 <li><h3><a href="https://github.com/UG-SEP/HMT" alt="project" title="HMT is a multi text-editor which provides you to interact with HTML, CSS, Markdown with one click preview.">HMT</a></h3></li>
 <li><h3><a href="https://github.com/UG-SEP/Paint-with-UG-The-SEP" alt="project" title="It is a paint application created in c language using graphics.h header file ">Paint With UG</a></h3></li>
