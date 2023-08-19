@@ -17,8 +17,11 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects and explore myself.
 - ⚡ Fun fact: I am funny. 😂
 - 📫 How to reach me:></summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
-- ***<details> <summary>*** 🤝  How to connect with me:></summary><a href="https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/"> <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="25px"/> </a>
-&nbsp; <a href="https://www.facebook.com/profile.php?id=100052029756223"> <img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" width="25px"/> </a> &nbsp; <a href="https://twitter.com/UjjwalG76283416"><img src="https://gist.githubusercontent.com/mbostock/3094619/raw/78116ff0306b3b5c3f40e6cdd5f6f8f648ecffd1/thumbnail.png" width="30px" height="25px" /></a></details>
+- ***<details> <summary>*** 🤝  How to connect with me:></summary>
+<a href="https://www.linkedin.com/in/ugthesep/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.youtube.com/channel/UChdmj1kcZiXXsmEKz7dVnWQ">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+
+</details>
 
 <h2> Languages and Tools 🛠:></h2>
 
@@ -28,7 +31,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-17089?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
