@@ -1,6 +1,6 @@
 <h1> <img alt="GIF" src="giphy.gif" width=300px height=200px align="right">
 
-<p align="center" >Hello, 👋 I'm Ujjawal Gupta</p>
+<p align="center" >Hello, 👋 I'm Ujjwal Gupta</p>
 <h3 align="center"><i>18 year old professional Django developer</i></h3></h1>
 <p><strong> Django backend developer with over 3 years of hands-on experience in programming and backend development. I believe in the power of technology to shape the future, and I'm dedicated to honing my skills to contribute meaningfully. </h2></strong></p><hr>
 <ul>
@@ -11,10 +11,10 @@
 </ul>
 <hr>
 
-- 🔭 I'm in Class 12th.
+- 🔭 I'm currently a Dropper
 - 🌱 I’m Currently working as a Freelancer
 - 🎯 I’m focusing on Competitive Programming & OpenSource.
-- 🥅 2023 Goals: Contribute more to Open Source projects and explore myself.
+- 🥅 2024 Goals: Exploring the world of CP
 - ⚡ Fun fact: I am funny. 😂
 - 📫 How to reach me:></summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 - ***<details> <summary>*** 🤝  How to connect with me:></summary>
