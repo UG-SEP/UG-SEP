@@ -11,7 +11,7 @@
 </ul>
 <hr>
 
-- 🔭 I'm currently a Dropper
+- 🔭 I'm currently a student
 - 🌱 I’m Currently working as a Freelancer
 - 🎯 I’m focusing on Competitive Programming & OpenSource.
 - 🥅 2024 Goals: Exploring the world of CP
