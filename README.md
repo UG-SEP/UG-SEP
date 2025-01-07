@@ -1,9 +1,10 @@
 <h1> <img alt="GIF" src="giphy.gif" width=300px height=200px align="right">
 
 <p align="center" >Hello, 👋 I'm Ujjwal Gupta</p>
-<h3 align="center"><i>18 year old professional Django developer</i></h3></h1>
-<p><strong> Django backend developer with over 3 years of hands-on experience in programming and backend development. I believe in the power of technology to shape the future, and I'm dedicated to honing my skills to contribute meaningfully. </h2></strong></p><hr>
+<h3 align="center"><i>19 year old professional Django developer</i></h3></h1>
+<p><strong> Django backend developer with over 2 years of hands-on experience in programming and backend development. I believe in the power of technology to shape the future, and I'm dedicated to honing my skills to contribute meaningfully. </h2></strong></p><hr>
 <ul>
+ <li><h3><a href="https://github.com/UG-SEP/AZ-Chat-Bot-Extension" alt="AZ Chat bot extension" title="AZ Chat Bot Chrome Extension" >AZ Personalized Chat Bot Extension</a></h3></li>
 <li><h3><a href="https://github.com/UG-SEP/HMT" alt="project" title="HMT is a multi text-editor which provides you to interact with HTML, CSS, Markdown with one click preview.">HMT</a></h3></li>
 <li><h3><a href="https://github.com/UG-SEP/Paint-with-UG-The-SEP" alt="project" title="It is a paint application created in c language using graphics.h header file ">Paint With UG</a></h3></li>
 <li><h3><a href="https://github.com/UG-SEP/UG-Typing-Expert" alt="project" title="Typing Expert is a game in which you can test your typing speed, enjoy typing games and see your position on the leaderboard">UG Typing Expert</a></h3></li>
@@ -14,7 +15,7 @@
 - 🔭 I'm currently a student
 - 🌱 I’m Currently working as a Freelancer
 - 🎯 I’m focusing on Competitive Programming & OpenSource.
-- 🥅 2024 Goals: Exploring the world of CP
+- 🥅 2025 Goals: Exploring the world of CP
 - ⚡ Fun fact: I am funny. 😂
 - 📫 How to reach me:></summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 - ***<details> <summary>*** 🤝  How to connect with me:></summary>
@@ -70,7 +71,12 @@
 <img src="https://github.com/UG-SEP/UG-SEP/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
 <h2 align="center"><i> Show ❤️ by Starring Some of My Repos</i></h2>
 </p>
+
+<h2>Achievements</h2>
+<h5><a href="">AlgoZenith Winter Hackathon Winner 2024 (AZ Problem Helper Bot Chrome Extension)</a></h5>
+
+
 <h2>Latest Blogs</h2>
-<h3><a href="https://dev.to/ug/top-5-website-to-learn-web-development-2k4h">Top 5 Websites to Learn Web Development</a></h3>
-<h3><a href="https://dev.to/ug/most-useful-sequences-in-python-for-beginners-3ac3">Most Useful Sequences in Python for Beginners👨‍💻</a></h3>
-<h3><a href="https://dev.to/ug/5-project-to-master-in-python-for-beginners-4blm">5 Projects to Master in Python for Beginners👨‍💻</a></h3>
+<h5><a href="https://dev.to/ug/top-5-website-to-learn-web-development-2k4h">Top 5 Websites to Learn Web Development</a></h5>
+<h5><a href="https://dev.to/ug/most-useful-sequences-in-python-for-beginners-3ac3">Most Useful Sequences in Python for Beginners👨‍💻</a></h5>
+<h5><a href="https://dev.to/ug/5-project-to-master-in-python-for-beginners-4blm">5 Projects to Master in Python for Beginners👨‍💻</a></h5>
