@@ -1,82 +1,168 @@
-<h1> <img alt="GIF" src="giphy.gif" width=300px height=200px align="right">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:3776AB&height=220&section=header&text=Ujjwal%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Django%20%2F%20Python%20%2F%20Distributed%20Systems&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center" >Hello, 👋 I'm Ujjwal Gupta</p>
-<h3 align="center"><i>19 year old professional Django developer</i></h3></h1>
-<p><strong> Django backend developer with over 2 years of hands-on experience in programming and backend development. I believe in the power of technology to shape the future, and I'm dedicated to honing my skills to contribute meaningfully. </h2></strong></p><hr>
-<ul>
- <li><h3><a href="https://github.com/UG-SEP/AZ-Chat-Bot-Extension" alt="AZ Chat bot extension" title="AZ Chat Bot Chrome Extension" >AZ Personalized Chat Bot Extension</a></h3></li>
-<li><h3><a href="https://github.com/UG-SEP/HMT" alt="project" title="HMT is a multi text-editor which provides you to interact with HTML, CSS, Markdown with one click preview.">HMT</a></h3></li>
-<li><h3><a href="https://github.com/UG-SEP/Paint-with-UG-The-SEP" alt="project" title="It is a paint application created in c language using graphics.h header file ">Paint With UG</a></h3></li>
-<li><h3><a href="https://github.com/UG-SEP/UG-Typing-Expert" alt="project" title="Typing Expert is a game in which you can test your typing speed, enjoy typing games and see your position on the leaderboard">UG Typing Expert</a></h3></li>
-<li><h3><a href="https://github.com/UG-SEP/Tic-Tac-Toe-AI-Intergrated" alt="project" title="It is a popular game in this you can play with computer and there is unique concept click on the link and go to the video from readme.md and enjoy it">Tic Tac Toe AI Integrated</a></h3></li>
-</ul>
-<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ugthesep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ujjwalcomputerpro1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/UG-SEP"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://dev.to/ugsep"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=UG-SEP&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+</p>
 
-- 🔭 I'm currently a student
-- 🌱 I’m Currently working as a Freelancer
-- 🎯 I’m focusing on Competitive Programming & OpenSource.
-- 🥅 2025 Goals: Exploring the world of CP
-- ⚡ Fun fact: I am funny. 😂
-- 📫 How to reach me:></summary><a href="mailto:ujjwalcomputerpro1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
-- ***<details> <summary>*** 🤝  How to connect with me:></summary>
-<a href="https://www.linkedin.com/in/ugthesep/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.youtube.com/channel/UChdmj1kcZiXXsmEKz7dVnWQ">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Building+production+backends+with+Django+%26+DRF;Optimizing+Redis%2C+Celery+%26+WebSockets+at+scale;Shipped+a+GPT-4o-powered+Resume+Parser+SaaS;" alt="Typing SVG"/>
+</p>
 
-</details>
+```python
+class UjjwalGupta:
+    def __init__(self):
+        self.role = "SDE Intern @ EVE Healthcare"
+        self.location = "Lucknow, India"
+        self.education = "B.Tech CSE (AI & ML) @ AKTU"
+        self.stack = ["Django", "DRF", "FastAPI", "Redis", "Celery", "Docker"]
+        self.focus = "Scalable backends, real-time systems, AI-powered products"
 
-<h2> Languages and Tools 🛠:></h2>
+    def currently_building(self):
+        return "Live-call workflows & real-time WhatsApp CRM infra"
 
-![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-%23434C5E?style=for-the-badge&logo=HTML5&%2B%2B&labelColor=%23E34F26&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-%23434C5E?style=for-the-badge&logo=CSS3&labelColor=%231572b6)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23434C5E?style=for-the-badge&logo=Qt&labelColor=%2341CD52&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ugsep)
-<details><summary><strong>My Profile statistics 📈📊📉</strong></summary>
- <table>
- <tr>
- <td>
+    def fun_fact(self):
+        return "6-figure freelance revenue across 20+ shipped projects"
+```
 
-[![Ujjwal Gupta stats](https://github-readme-stats.vercel.app/api?username=UG-SEP&theme=chartreuse-dark)](https://github.com/UG-SEP)
+---
+
+## 🧭 About Me
+
+- 💼 **SDE Intern @ EVE Healthcare** — building a production Django-based WhatsApp CRM: live call workflows, WhatsApp template messaging, real-time updates via WebSockets, and Redis-optimized async processing for multi-agent call handling
+- 🏠 Built **FlatGenie** — an AI real-estate platform turning unstructured Facebook posts into structured, searchable listings using Django, Selenium & Gemini LLM
+- 🧠 Architected an **async Resume Parser SaaS** processing ~100 PDFs concurrently with Celery, Redis & GPT-4o structured extraction
+- 🏆 1st Place — AlgoZenith Winter Hackathon 2024
+- 🚀 Founded **Tenthies**, an edtech platform — 100+ users in its first 2 months
+- 📫 **ujjwalcomputerpro1@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,django,fastapi,postgres,mysql,mongodb,redis,docker,aws,nginx,git,postman&theme=dark" />
+</p>
+
+<div align="center">
+
+| Layer | Tools |
+|---|---|
+| **Languages** | Python · C++ · C · JavaScript · SQL |
+| **Backend** | Django · Django REST Framework · FastAPI · Celery · WebSockets · JWT |
+| **Data** | PostgreSQL · MySQL · MongoDB · Redis |
+| **Infra** | Docker · AWS EC2 / S3 · RabbitMQ · Nginx · Ubuntu |
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Resume Parser SaaS
+Async API parsing ~100 PDFs concurrently. PDFPlumber + PyPDF2 fallback cut failures by 5%; GPT reprompting lifted extraction quality by ~38%.
+
+**Stack:** `Celery` `Redis` `GPT-4o` `Flower`
+
 </td>
-<td>
+<td width="50%" valign="top">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UG-SEP&theme=onedark)](https://github.com/UG-SEP)
+### 📚 StudyShare
+Distraction-free study platform that turns YouTube playlists into personalized, schedulable study plans with real-time progress tracking.
+
+**Stack:** `Django` `Celery` `Redis` `WebSockets` `Docker`
+
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-[![Language Preferred](https://github-readme-stats.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=chartreuse-dark)](https://github.com/UG-SEP)
+### 🤖 [AZ Personalized Chat Bot Extension](https://github.com/UG-SEP/AZ-Chat-Bot-Extension)
+🏆 Hackathon-winning Chrome extension — AlgoZenith Winter Hackathon 2024 winner, built as a personalized problem-solving assistant.
+
+**Stack:** `JavaScript` `Chrome Extension APIs`
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UG-SEP&theme=gruvbox)](https://github.com/UG-SEP)
+### 📝 [HMT](https://github.com/UG-SEP/HMT)
+Multi text-editor for HTML, CSS & Markdown with one-click live preview — write and preview all three formats in a single tool.
+
+**Stack:** `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 </table>
 
-[![Ujjawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UG-SEP&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details>
+<summary><b>🎮 More projects</b></summary>
+<br>
+
+- **[UG Typing Expert](https://github.com/UG-SEP/UG-Typing-Expert)** — Typing speed game with leaderboard
+- **[Tic Tac Toe – AI Integrated](https://github.com/UG-SEP/Tic-Tac-Toe-AI-Intergrated)** — Classic game vs. an AI opponent
+- **[Paint With UG](https://github.com/UG-SEP/Paint-with-UG-The-SEP)** — Paint app built in C using `graphics.h`
 
 </details>
 
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 | 💰 | 🚀 | 📈 |
+|:---:|:---:|:---:|:---:|
+| AlgoZenith Winter<br>Hackathon Winner | 6-figure freelance<br>revenue, 20+ projects | Founded Tenthies —<br>100+ users in 2 months | Global Rank 106,<br>CodeChef Starter 150 |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://github.com/UG-SEP/UG-SEP/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
-<h2 align="center"><i> Show ❤️ by Starring Some of My Repos</i></h2>
+  <img src="https://github-stats-extended.vercel.app/api?username=UG-SEP&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=UG-SEP&theme=tokyonight&hide_border=true" height="165"/></a>
 </p>
 
-<h2>Achievements</h2>
-<h5><a href="">AlgoZenith Winter Hackathon Winner 2024 (AZ Problem Helper Bot Chrome Extension)</a></h5>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=UG-SEP&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=UG-SEP&theme=tokyonight&row=1&column=6&margin-w=8&no-frame=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UG-SEP&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
 
 
-<h2>Latest Blogs</h2>
-<h5><a href="https://dev.to/ug/top-5-website-to-learn-web-development-2k4h">Top 5 Websites to Learn Web Development</a></h5>
-<h5><a href="https://dev.to/ug/most-useful-sequences-in-python-for-beginners-3ac3">Most Useful Sequences in Python for Beginners👨‍💻</a></h5>
-<h5><a href="https://dev.to/ug/5-project-to-master-in-python-for-beginners-4blm">5 Projects to Master in Python for Beginners👨‍💻</a></h5>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UG-SEP/UG-SEP/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</p>
+
+
+---
+
+## 📝 Latest Blogs
+
+- [Top 5 Websites to Learn Web Development](https://dev.to/ug/top-5-website-to-learn-web-development-2k4h)
+- [Most Useful Sequences in Python for Beginners](https://dev.to/ug/most-useful-sequences-in-python-for-beginners-3ac3)
+- [5 Projects to Master in Python for Beginners](https://dev.to/ug/5-project-to-master-in-python-for-beginners-4blm)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:092E20&height=120&section=footer" width="100%"/>
+
+<p align="center"><i>⭐️ If any of this resonates — star a repo, or just say hi.</i></p>
