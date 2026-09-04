@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:3776AB&height=220&section=header&text=Ujjwal%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Django%20%2F%20Python%20%2F%20Distributed%20Systems&descAlignY=58&descSize=20" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ugthesep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/algo-raider/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ujjwalcomputerpro1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/UG-SEP"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://dev.to/ugsep"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
